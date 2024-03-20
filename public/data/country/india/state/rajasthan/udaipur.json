@@ -1,0 +1,273 @@
+{
+    "state": "Rajasthan",
+    "districts": [
+        {
+            "name": "Jaipur",
+            "bestTime": [
+                {
+                    "peakSeason": "October to March",
+                    "moderateSesson": "July to September",
+                    "off-Season": "April to June"
+                }
+            ],
+            "airport": [
+                {
+                    "name": "Jaipur International Airport",
+                    "code": "JAI",
+                    "location": "Sanganer, Jaipur",
+                    "distance_from_city_center": "Approximately 13 kilometers"
+                }
+            ],
+            "railway_station": [
+                {
+                    "name": "Jaipur Junction",
+                    "code": "JP",
+                    "location": "Gopalbari, Jaipur",
+                    "distance_from_city_center": "Approximately 2 kilometers"
+                }
+            ],
+            "bus_stand": [
+                {
+                    "name": "Sindhi Camp Bus Stand",
+                    "location": "Sindhi Camp, Jaipur",
+                    "distance_from_city_center": "Approximately 1 kilometer"
+                }
+            ],
+            "temperature": {
+                "summer": "25°C to 45°C",
+                "winter": "5°C to 22°C"
+            },
+            "things_to_carry": [
+                "Light cotton clothing",
+                "Sunscreen",
+                "Sunglasses",
+                "Hat or cap",
+                "Comfortable walking shoes",
+                "Camera",
+                "Umbrella or raincoat (during monsoon season)"
+            ],
+            "Must_Know_Before_You_Travel_to": {
+                "currency": "Indian Rupee (INR)",
+                "language": "Hindi, English, and Rajasthani",
+                "emergency_contact_numbers": {
+                    "police": "100",
+                    "fire": "101",
+                    "ambulance": "102",
+                    "tourist_helpline": "1363"
+                },
+                "local_customs": "It is advisable to dress modestly, especially when visiting religious sites. Always ask for permission before taking photographs of locals. Bargaining is common in local markets.",
+                "local_cuisine": "Rajasthani cuisine is known for its rich flavors and unique cooking techniques. Don't miss out on trying dishes such as dal baati churma, gatte ki sabzi, and laal maas.",
+                "local_festivals": "The city of Jaipur celebrates various festivals, including Diwali, Holi, and Teej. The Jaipur Literature Festival, held in January, is a major cultural event that attracts renowned authors and literary enthusiasts from around the world."
+            },
+            "famousCafes": [
+                {
+                    "name": "Tapri - The Tea House",
+                    "location": "B4-E, 3rd Floor, Surana Jewellers, Opposite Central Park, C Scheme, Jaipur",
+                    "google_rating": "4.5/5 (based on 5,000+ reviews)",     
+                    "detailed_page": "https://example.com/tapri-the-tea-house"
+                }, 
+                {
+                    "name": "Anokhi Cafe",
+                    "location": "2nd Floor, KK Square, C-11, Prithviraj Road, C Scheme, Jaipur",
+                    "google_rating": "4.4/5 (based on 4,000+ reviews)",
+                    "detailed_page": "https://example.com/anokhi-cafe"
+                },
+                {
+                    "name": "The Tattoo Cafe",
+                    "location": "A-4, 5th Floor, Golden Oak Hotel, Ahinsa Circle, C Scheme, Jaipur",
+                    "google_rating": "4.3/5 (based on 3,000+ reviews)",
+                    "detailed_page": "https://example.com/the-tattoo-cafe"
+                },
+                {
+                    "name": "Cafe Bae",
+                    "location": "A-4, 5th Floor, Golden Oak Hotel, Ahinsa Circle, C Scheme, Jaipur",
+                    "google_rating": "4.2/5 (based on 2,000+ reviews)",
+                    "detailed_page": "https://example.com/cafe-bae"
+                },
+                {
+                    "name": "The Stag Cafe",
+                    "location": "12 Miles, Tonk Road, Jaipur",
+                    "google_rating": "4.1/5 (based on 1,000+ reviews)",
+                    "detailed_page": "https://example.com/the-stag-cafe"
+                }
+            
+            ],
+                "famousRestaurants": [
+                {
+                    "name": "Chokhi Dhani",
+                    "location": "12 Miles, Tonk Road, Jaipur",
+                    "google_rating": "4.4/5 (based on 15,000+ reviews)",
+                    "detailed_page": "https://example.com/chokhi-dhani"
+                },
+                {
+                    "name": "Laxmi Mishthan Bhandar (LMB)",
+                    "location": "98-100, Johari Bazaar, Jaipur",
+                    "google_rating": "4.3/5 (based on 10,000+ reviews)",
+                    "detailed_page": "https://example.com/laxmi-mishthan-bhandar",
+                },
+                {
+                    "name": "Handi Restaurant",
+                    "location": "18, Gautam Marg, Vaishali Nagar, Jaipur",
+                    "google_rating": "4.4/5 (based on 12,000+ reviews)",
+                    "detailed_page": "https://example.com/handi-restaurant"
+                },
+                {
+                    "name": "Niros",
+                    "location": "MI Road, Jaipur",
+                    "google_rating": "4.3/5 (based on 8,000+ reviews)",
+                    "detailed_page": "https://example.com/niros"
+                },
+                {
+                    "name": "Surya Mahal",
+                    "location": "Mirza Ismail Road, Jaipur",
+                    "google_rating": "4.2/5 (based on 6,000+ reviews)",
+                    "detailed_page": "https://example.com/surya-mahal"
+                }
+            
+            ], 
+            "places": [
+                {
+                    "name": "Hawa Mahal",
+                    "description": "Hawa Mahal, also known as the 'Palace of Winds', is a stunning five-story palace constructed of red and pink sandstone. It features intricate lattice work and 953 small windows (jharokhas), allowing cool air to circulate and providing a panoramic view of the city.",
+                    "entry_fees": {
+                        "indian_tourists": "INR 50",
+                        "foreign_tourists": "INR 200 (approximately $2.67)"
+                    },
+                    "type": "Palace",
+                    "timings": "9:00 AM to 5:00 PM",
+                    "parking": "Paid parking available",
+                    "distance_from_city_center": "Approximately 4 kilometers",
+                    "google_rating": "4.5/5 (based on 12,000+ reviews)",
+                    "detailed_page": "https://example.com/hawa-mahal",
+                    "images": [
+                        "https://example.com/images/hawa-mahal-1.jpg",
+                        "https://example.com/images/hawa-mahal-2.jpg"
+                    ]
+                },
+                {
+                    "name": "City Palace",
+                    "description": "The City Palace is a magnificent complex of courtyards, gardens, and buildings. It blends Rajput, Mughal, and European architectural styles and houses museums showcasing royal costumes, arms, and art. The palace also includes the Chandra Mahal and Mubarak Mahal.",
+                    "entry_fees": {
+                        "indian_tourists": "INR 75",
+                        "foreign_tourists": "INR 300 (approximately $4)"
+                    },
+                    "type": "Palace",
+                    "timings": "9:30 AM to 5:30 PM",
+                    "parking": "Paid parking available",
+                    "distance_from_city_center": "Approximately 3 kilometers",
+                    "google_rating": "4.6/5 (based on 18,000+ reviews)",
+                    "detailed_page": "https://example.com/city-palace",
+                    "images": [
+                        "https://example.com/images/city-palace-1.jpg",
+                        "https://example.com/images/city-palace-2.jpg"
+                    ]
+                },
+                {
+                    "name": "Amber Fort",
+                    "description": "Amber Fort, also known as Amer Fort, is a majestic fortress situated on a hilltop. It showcases a fusion of Hindu and Mughal architectural elements, including intricate carvings, stunning mirror work, and expansive courtyards. Visitors can enjoy an elephant ride to reach the fort entrance.",
+                    "entry_fees": {
+                        "indian_tourists": "INR 25",
+                        "foreign_tourists": "INR 200 (approximately $2.67)"
+                    },
+                    "type": "Fort",
+                    "timings": "8:00 AM to 6:00 PM",
+                    "parking": "Paid parking available",
+                    "distance_from_city_center": "Approximately 12 kilometers",
+                    "google_rating": "4.7/5 (based on 25,000+ reviews)",
+                    "detailed_page": "https://example.com/amber-fort",
+                    "images": [
+                        "https://example.com/images/amber-fort-1.jpg",
+                        "https://example.com/images/amber-fort-2.jpg"
+                    ]
+                },
+                {
+                    "name": "Jaigarh Fort",
+                    "description": "A formidable fort located on a hilltop overlooking the Amber Fort. It houses the world's largest cannon on wheels, Jaivana, and offers panoramic views of the surrounding landscape.",
+                    "entry_fees": {
+                        "indian_tourists": "INR 35",
+                        "foreign_tourists": "INR 85 (approximately $1.14)"
+                    },
+                    "type": "Fort",
+                    "timings": "9:00 AM to 5:00 PM",
+                    "parking": "Paid parking available",
+                    "distance_from_city_center": "Approximately 15 kilometers",
+                    "google_rating": "4.4/5 (based on 10,000+ reviews)",
+                    "detailed_page": "https://example.com/jaigarh-fort",
+                    "images": [
+                        "https://example.com/images/jaigarh-fort-1.jpg",
+                        "https://example.com/images/jaigarh-fort-2.jpg"
+                    ]
+                },
+                {
+                    "name": "Albert Hall Museum",
+                    "description": "A museum located in the heart of Jaipur, housing a vast collection of artifacts, including paintings, sculptures, and decorative arts. The architecture of the building itself is worth admiring.",
+                    "entry_fees": {
+                        "indian_tourists": "INR 40",
+                        "foreign_tourists": "INR 300 (approximately $4)"
+                    },
+                    "type": "Museum",
+                    "timings": "9:00 AM to 5:00 PM",
+                    "parking": "Paid parking available",
+                    "distance_from_city_center": "Approximately 2 kilometers",
+                    "google_rating": "4.3/5 (based on 7,000+ reviews)",
+                    "detailed_page": "https://example.com/albert-hall-museum",
+                    "images": [
+                        "https://example.com/images/albert-hall-museum-1.jpg",
+                        "https://example.com/images/albert-hall-museum-2.jpg"
+                    ]
+                },
+                {
+                    "name": "Jal Mahal",
+                    "description": "A picturesque palace situated amidst the Man Sagar Lake, with its lower floors submerged in water. It offers a serene ambiance and is ideal for photography.",
+                    "entry_fees": {
+                        "indian_tourists": "INR 10",
+                        "foreign_tourists": "INR 50 (approximately $0.67)"
+                    },
+                    "type": "Palace",
+                    "timings": "6:00 AM to 6:00 PM",
+                    "parking": "Paid parking available",
+                    "distance_from_city_center": "Approximately 6 kilometers",
+                    "google_rating": "4.3/5 (based on 6,000+ reviews)",
+                    "detailed_page": "https://example.com/jal-mahal",
+                    "images": [
+                        "https://example.com/images/jal-mahal-1.jpg",
+                        "https://example.com/images/jal-mahal-2.jpg"
+                    ]
+                },
+                {
+                    "name": "Galtaji (Monkey Temple)",
+                    "description": "An ancient Hindu pilgrimage site known for its natural springs and temples surrounded by monkeys. It offers a serene and spiritual atmosphere away from the city's hustle and bustle.",
+                    "entry_fees": "Free",
+                    "type": "Temple",
+                    "timings": "Open all day",
+                    "parking": "Limited parking available",
+                    "distance_from_city_center": "Approximately 10 kilometers",
+                    "google_rating": "4.4/5 (based on 5,000+ reviews)",
+                    "detailed_page": "https://example.com/galtaji-temple",
+                    "images": [
+                        "https://example.com/images/galtaji-temple-1.jpg",
+                        "https://example.com/images/galtaji-temple-2.jpg"
+                    ]
+                },
+                {
+                    "name": "Chokhi Dhani",
+                    "description": "A recreated Rajasthani village offering an immersive cultural experience. Visitors can enjoy traditional folk performances, camel rides, puppet shows, and authentic Rajasthani cuisine.",
+                    "entry_fees": {
+                        "indian_tourists": "INR 700 (includes dinner)",
+                        "foreign_tourists": "INR 900 (approximately $12) (includes dinner)"
+                    },
+                    "type": "Cultural Village",
+                    "timings": "5:00 PM to 11:00 PM",
+                    "parking": "Free parking available",
+                    "distance_from_city_center": "Approximately 20 kilometers",
+                    "google_rating": "4.4/5 (based on 15,000+ reviews)",
+                    "detailed_page": "https://example.com/chokhi-dhani",
+                    "images": [
+                        "https://example.com/images/chokhi-dhani-1.jpg",
+                        "https://example.com/images/chokhi-dhani-2.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}
