@@ -149,8 +149,7 @@
                   "google_rating": "4.5/5 (based on 12,000+ reviews)",
                   "detailed_page": "https://example.com/hawa-mahal",
                   "images": [
-                      "https://example.com/images/hawa-mahal-1.jpg",
-                      "https://example.com/images/hawa-mahal-2.jpg"
+                        "../images/india/rajasthan/jaipur/hawa-mahal.png"
                   ]
               },
               {
@@ -167,8 +166,7 @@
                   "google_rating": "4.6/5 (based on 18,000+ reviews)",
                   "detailed_page": "https://example.com/city-palace",
                   "images": [
-                      "https://example.com/images/city-palace-1.jpg",
-                      "https://example.com/images/city-palace-2.jpg"
+                    "../images/india/rajasthan/jaipur/city-palace.png"
                   ]
               },
               {
