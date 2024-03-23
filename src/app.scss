@@ -1,0 +1,67 @@
+body {
+    color: #052c52 !important;
+}
+
+.small-card-top {
+    border: 1px solid #e7eaed;
+    margin-right: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+    padding: 15px 0px;
+    background: #fff;
+    border-radius: 10px;
+    p {
+        margin: 0px 0px 0px 10px;
+    }
+    h4 {
+        font-size: 16px;
+    }
+}
+
+.sub-headers {
+    font-size: 20px;
+}
+
+.standard-grey-wrap {
+    background-color: #f5f5f5;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.places-section {
+    margin-top: 15px;
+     h5.card-title {
+        border-bottom: 1px solid #ddd;
+        padding: 5px 0px;
+     }
+     p.card-text {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 8;
+        -webkit-box-orient: vertical;
+        margin-bottom: 0px;
+        font-size: 14px;
+     }
+    .places-top-images {
+        width: 100%;
+        min-height: 185px;
+        margin-right: 10px;
+        max-height: 185px;
+    }
+    .places-small-info {
+        li 
+         {
+            padding: 3px 0px;
+            font-size: 14px;
+        span {
+           font-weight: 500; 
+           i {
+            padding-right: 3px;
+           }
+        }
+    }
+    }
+}
+

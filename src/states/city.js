@@ -36,21 +36,24 @@ const CityGuide = () => {
     <div className="container">
       {data ? (
         <>
-          <h1 className="mt-4 mb-4">Travel Guide for {city}</h1>
+          <h1 className="mt-4 mb-4"> Travel Guide for {city} </h1>
           {/* create a component for places and use it here */}
           {data.districts.map((district, index) => (
             <div key={index}>
-              <h2 className="mt-3">{district.name}</h2>
-              <div className="row">
-                <h2 className="mt-3">Time to Visit</h2>
+              <div className="">
+                <div className="time-to-visit-section standard-grey-wrap">
+                <h2 className="sub-headers">Best time to visit</h2>
                 <BestTimeToVisit data={district.bestTime} />
-                <h2 className="mt-3">Places</h2>
+                </div>
+                <div className="standard-grey-wrap places-section">
+                <h2 className="sub-headers">Places</h2>
                 <Places data={district.places} />
-                <h2 className="mt-3">Transportation</h2>
+                </div>
+                <h2 className="sub-headers">Transportation</h2>
                 <Transportation transportation={district.transportation} />
-                <h2 className="mt-3">Cafes</h2>
+                <h2 className="sub-headers">Cafes</h2>
                 <Cafes cafes={district.cafes} />
-                <h2 className="mt-3">Restaurants</h2>
+                <h2 className="sub-headers">Restaurants</h2>
                 <Restaurants restaurants={district.restaurants} />
               </div>
             </div>

@@ -10,8 +10,8 @@ import {
 import reportWebVitals from './reportWebVitals';
 import Contact from './components/contact/contact';
 import 'bootstrap/dist/css/bootstrap.css';
-import 'font-awesome/css/font-awesome.min.css';
 import StateGuide from './states/state';
+
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
