@@ -217,8 +217,7 @@
                   "google_rating": "4.3/5 (based on 7,000+ reviews)",
                   "detailed_page": "https://example.com/albert-hall-museum",
                   "images": [
-                      "https://example.com/images/albert-hall-museum-1.jpg",
-                      "https://example.com/images/albert-hall-museum-2.jpg"
+                    "https://cdn.pixabay.com/photo/2022/01/28/08/13/albert-hall-museum-6973940_1280.jpg"
                   ]
               },
               {
@@ -235,8 +234,7 @@
                   "google_rating": "4.3/5 (based on 6,000+ reviews)",
                   "detailed_page": "https://example.com/jal-mahal",
                   "images": [
-                      "https://example.com/images/jal-mahal-1.jpg",
-                      "https://example.com/images/jal-mahal-2.jpg"
+                    "https://cdn.pixabay.com/photo/2019/04/07/07/51/jal-mahal-4109105_1280.jpg"
                   ]
               },
               {
@@ -250,8 +248,7 @@
                   "google_rating": "4.4/5 (based on 5,000+ reviews)",
                   "detailed_page": "https://example.com/galtaji-temple",
                   "images": [
-                      "https://example.com/images/galtaji-temple-1.jpg",
-                      "https://example.com/images/galtaji-temple-2.jpg"
+                    "https://cdn.pixabay.com/photo/2018/11/26/05/02/galtaji-3838766_1280.jpg"
                   ]
               },
               {
@@ -268,8 +265,7 @@
                   "google_rating": "4.4/5 (based on 15,000+ reviews)",
                   "detailed_page": "https://example.com/chokhi-dhani",
                   "images": [
-                      "https://example.com/images/chokhi-dhani-1.jpg",
-                      "https://example.com/images/chokhi-dhani-2.jpg"
+                        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/11/4c/a4/main-entrance.jpg?w=1200&h=-1&s=1"
                   ]
               }
           ]
