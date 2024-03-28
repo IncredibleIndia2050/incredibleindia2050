@@ -183,8 +183,7 @@
                   "google_rating": "4.7/5 (based on 25,000+ reviews)",
                   "detailed_page": "https://example.com/amber-fort",
                   "images": [
-                      "https://example.com/images/amber-fort-1.jpg",
-                      "https://example.com/images/amber-fort-2.jpg"
+                        "https://cdn.pixabay.com/photo/2018/05/03/09/53/india-3370925_1280.jpg"
                   ]
               },
               {
@@ -201,8 +200,7 @@
                   "google_rating": "4.4/5 (based on 10,000+ reviews)",
                   "detailed_page": "https://example.com/jaigarh-fort",
                   "images": [
-                      "https://example.com/images/jaigarh-fort-1.jpg",
-                      "https://example.com/images/jaigarh-fort-2.jpg"
+                    "https://cdn.pixabay.com/photo/2021/10/07/10/43/jaigarh-fort-6688172_1280.jpg"
                   ]
               },
               {
